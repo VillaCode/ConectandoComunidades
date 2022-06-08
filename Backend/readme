@@ -1,0 +1,5 @@
+Necesitas instalar express, paypal-rest-sdk, body-parser, express, ejs, mysql. con el comando npm install,
+
+No uses los mios porque estan resueltos a traves de la vpn de donde trabajo.
+
+Creo yo que ya todo esta listo y ya nada más falta probarlos.
